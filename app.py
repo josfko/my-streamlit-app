@@ -21,5 +21,4 @@ frame_text.empty()
 # rerun.
 st.button("Re-run")
 
-file = st.file_uploader("Pick a file")
 
