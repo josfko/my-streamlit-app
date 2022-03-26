@@ -3,8 +3,6 @@ import streamlit as st
 import numpy as np
 
 
-
-
 # These two elements will be filled in later, so we create a placeholder
 # for them using st.empty()
 frame_text = st.sidebar.empty()
